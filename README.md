@@ -8,4 +8,4 @@ __You can find me on:__
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://res.cloudinary.com/arthesus/image/upload/v1643364805/CDN/icons8-instagram-192_kbnw1j.png" height="30" /></a>
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>" height="30" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://res.cloudinary.com/arthesus/image/upload/v1643364872/CDN/icons8-twitter-190_dverhb.png" height="30" /></a>
